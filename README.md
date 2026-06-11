@@ -1,3 +1,4 @@
+
 # my-portfolio
 [index.html](https://github.com/user-attachments/files/28825025/index.html)
 <!DOCTYPE html>
@@ -611,3 +612,7 @@
     </script>
 </body>
 </html>
+[settings.local.json](https://github.com/user-attachments/files/28825192/settings.local.json)
+<img width="1216" height="832" alt="abstract_gradient_mesh__smooth_2026-06-11T03-27-07" src="https://github.com/user-attachments/assets/34df0051-7d80-45e4-8491-5c47260aaa5b" />
+<img width="1216" height="832" alt="abstract_gradient_mesh__smooth_2026-06-11T03-27-11" src="https://github.com/user-attachments/assets/b2a56f9a-a101-4c15-ac5f-da2e0534bb99" />
+<img width="1216" height="832" alt="abstract_gradient_mesh__smooth_2026-06-11T03-27-08" src="https://github.com/user-attachments/assets/2dd36f83-7c2f-4dd1-ab42-f2fafcb6bfe1" />
